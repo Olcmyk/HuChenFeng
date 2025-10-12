@@ -1,6 +1,6 @@
 # 户晨风直播文字稿全记录 (2023-2025)
 
-[在线阅读](https://mycompany-133.gitbook.io/hu-chen-feng-quan-ji/)
+## [Gitbook在线阅读地址](https://mycompany-133.gitbook.io/hu-chen-feng-quan-ji/)
 
 ## 📖 项目简介
 
@@ -8,7 +8,7 @@
 
 ## 🚀 如何使用
 
-1.  **在线浏览**：直接通过 [你的GitBook链接](你的GitBook链接) 在线阅读，享受最佳的阅读体验。
+1.  **在线浏览**：直接通过 [户晨风全集](https://mycompany-133.gitbook.io/hu-chen-feng-quan-ji/) 在线阅读，享受最佳的阅读体验。
 2.  **仓库内查找**：在本仓库中，直接进入对应年份和月份的文件夹查找特定日期的文稿。
 3.  **克隆到本地**：如果你希望在本地进行数据分析或深度研究，可以使用以下命令将整个仓库克隆到你的电脑上：
     ```bash
@@ -34,4 +34,5 @@
 ## 🙏友情链接：
 
 [语音转文字脚本](https://github.com/Olcmyk/convert-audio-to-text)
+
 [户晨风微博收录](https://github.com/HappyDIY/HuChenfeng_Weibo)
