@@ -12,7 +12,7 @@
 2.  **仓库内查找**：在本仓库中，直接进入对应年份和月份的文件夹查找特定日期的文稿。
 3.  **克隆到本地**：如果你希望在本地进行数据分析或深度研究，可以使用以下命令将整个仓库克隆到你的电脑上：
     ```bash
-    git clone [https://github.com/Olcmyk/HuChenFeng.git](https://github.com/Olcmyk/HuChenFeng.git)
+    git clone https://github.com/Olcmyk/HuChenFeng.git
     ```
 
 ## ✨ 项目特色
