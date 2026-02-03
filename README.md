@@ -35,4 +35,5 @@
 
 [语音转文字脚本](https://github.com/Olcmyk/convert-audio-to-text)
 
-[户晨风微博收录](https://github.com/HappyDIY/HuChenfeng_Weibo)
+[户晨风微博收录](https://github.com/Olcmyk/HuChenfeng_Weibo)
+
