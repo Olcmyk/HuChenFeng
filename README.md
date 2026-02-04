@@ -2,6 +2,8 @@
 
 ## [Gitbook在线阅读地址](https://mycompany-133.gitbook.io/hu-chen-feng-quan-ji/)
 
+## [Github项目地址](https://github.com/Olcmyk/HuChenFeng)
+
 ## 📖 项目简介
 
 本项目旨在为户晨风先生（知名主播/内容创作者）的直播内容提供一份全面、可搜索的文字记录。我整理了从2023年初到2025年底的所有直播，将其转化为文字稿，方便粉丝、研究者和所有感兴趣的朋友回顾、引用和分析。
